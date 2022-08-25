@@ -13,7 +13,6 @@ touch config.fish
 git clone https://github.com/spaceguybob/Fish-shell-aliases.git -q
 cat $HOME/.config/fish/Fish-shell-aliases/config.fish >> config.fish
 rm -rf $HOME/.config/fish/Fish-shell-alises/
-rmdir $HOME/.config/fish/Fish-shell-alises/
 echo ~~~~~~~~~~~~~~~~~~
 cd ~
 echo complete!
