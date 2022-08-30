@@ -25,4 +25,8 @@ Notice: to install nvidia scripts, run ```nvs``` after installing and restarting
 
 ### how to list installed scripts from repo?
 
->run ```alias-ls```
+run ```alias-ls``` to list them all
+
+### where are my nvidia scripts!?
+
+run nvs to install them if they are not installed then restart your shell
