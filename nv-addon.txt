@@ -1,0 +1,1 @@
+alias nvidia-install="./$HOME/.scripts/FedoraScripts/nvidia/nvidia-driver-current.sh"
