@@ -4,7 +4,7 @@
 
 ---
 
-HOW TO INSTALL:
+# HOW TO INSTALL:
 
 ```curl -fsSL https://raw.githubusercontent.com/RobloxEnderman/FedoraScripts/Fedora/install.sh | sh```
 
