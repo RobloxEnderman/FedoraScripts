@@ -6,3 +6,5 @@ HOW TO INSTALL:
 
 Scripts / Tweaks to make fedora run better
 Notice: to install nvidia scripts, run ```nvs``` after installing and restarting shell
+FAQ: how to list installed scripts from repo?
+run ```alias-ls```
