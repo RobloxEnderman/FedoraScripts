@@ -1,5 +1,7 @@
-![image](https://user-images.githubusercontent.com/92336100/187533342-a4f47877-cd35-45b2-aaea-25ad7144eefd.png)
-__________
+<p align="center">
+  <img width="512" height="256" src="https://github.com/RobloxEnderman/FedoraScripts/blob/Fedora/branding/logo.png">
+</p>
+__________________________________________________________________________________________________________________
 
 HOW TO INSTALL:
 
