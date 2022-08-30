@@ -7,7 +7,7 @@ alias dnf-enable-nonfree="./$HOME/.scripts/FedoraScripts/dnf/enable-nonfree-repo
 alias dnf-enable-nonfree="./$HOME/.scripts/FedoraScripts/dnf/enable-nonfree-repos.sh"
 
 #nvidia install
-alias nvs=cat $HOME/.scripts/FedoraScripts/nv-addon.txt >> config.fish"
+alias nvs="cat $HOME/.scripts/FedoraScripts/nv-addon.txt >> config.fish"
 
 #flathub beta
 alias frestore="$HOME/.scripts/FedoraScripts/fish/fish-config-reset.sh"
