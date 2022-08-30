@@ -1,7 +1,8 @@
 <p align="center">
   <img width="512" height="256" src="https://github.com/RobloxEnderman/FedoraScripts/blob/Fedora/branding/logo.png">
 </p>
-__________________________________________________________________________________________________________________
+
+---
 
 HOW TO INSTALL:
 
