@@ -1,3 +1,4 @@
+#!/bin/sh
 sudo dnf update -y
 sudo dnf install dnf-plugins-core
 sudo dnf update -y
