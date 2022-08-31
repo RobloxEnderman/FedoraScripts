@@ -29,4 +29,4 @@ run ```alias-ls``` to list them all
 
 ### where are my nvidia scripts!?
 
-run nvs to install them if they are not installed then restart your shell
+run ```nvs``` to install them if they are not installed then restart your shell
