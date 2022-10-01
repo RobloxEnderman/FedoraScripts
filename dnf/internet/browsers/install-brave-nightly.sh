@@ -7,7 +7,7 @@ sudo rpm --import https://brave-browser-rpm-nightly.s3.brave.com/brave-core-nigh
 sudo dnf update -y
 sudo dnf install brave-browser-nightly
 sleep 2
-echo Brave NIGHTLY has been installed!
+echo Brave NIGHTLY has been installed
 sleep 1
 echo Nothing to do. Exiting...
 sleep 1
