@@ -7,4 +7,4 @@ sudo rpm --import https://brave-browser-rpm-release.s3.brave.com/brave-core.asc
 sudo dnf update -y
 sudo dnf install brave-browser
 sleep 2
-echo Brave (Stable) is now installed!
+echo Brave STABLE is now installed!
